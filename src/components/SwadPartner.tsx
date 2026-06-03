@@ -280,7 +280,7 @@ export default function SwadPartner() {
         {/* CTA */}
         <div className="mt-12 text-center">
           <a
-            href="https://wa.me/2348066673312"
+            href="https://wa.me/2347011914628"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 text-white font-medium tracking-wide uppercase text-[13px] px-8 py-4 rounded transition-all duration-200"
